@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pdp123&theme=highcontrast&border_radius=5&locale=hi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pdp123)](https://git.io/streak-stats)
+
